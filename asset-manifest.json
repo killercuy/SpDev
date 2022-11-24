@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpDev/static/css/main.073c9b0a.css",
+    "main.js": "/SpDev/static/js/main.60231151.js",
+    "static/js/787.7c79daff.chunk.js": "/SpDev/static/js/787.7c79daff.chunk.js",
+    "index.html": "/SpDev/index.html",
+    "main.073c9b0a.css.map": "/SpDev/static/css/main.073c9b0a.css.map",
+    "main.60231151.js.map": "/SpDev/static/js/main.60231151.js.map",
+    "787.7c79daff.chunk.js.map": "/SpDev/static/js/787.7c79daff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60231151.js"
+  ]
+}
